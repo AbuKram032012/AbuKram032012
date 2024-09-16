@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-AbuKram032012/AbuKram032012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AbuKram032012/AbuKram032012 is a ✨ general manager ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
